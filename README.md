@@ -71,7 +71,7 @@ assets/startup.json
 ## 🚀 How to Run Locally
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/your-username/notesapp-sqlite.git
+   git clone https://github.com/obaidullah72/notesapp-sqlite.git
    cd notesapp-sqlite
    ```
 
