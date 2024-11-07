@@ -2,9 +2,6 @@
 
 A **simple notes application** that stores notes locally using **SQLite**. This project demonstrates a basic CRUD (Create, Read, Update, Delete) functionality with a clean and intuitive user interface. It also includes a **Lottie animation** on the splash screen for a polished user experience.
 
-![Splash Screen Animation](assets/splashscreen.jpeg)
-
-
 ## 🎬 Splash Screen Animation
 
 ![Splash Screen Animation](assets/splashscreen.gif)
