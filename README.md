@@ -4,6 +4,8 @@ A **simple notes application** that stores notes locally using **SQLite**. This 
 
 ![Splash Screen Animation](assets/splashscreen.jpeg)
 
+## 🎬 Video Demo
+[Watch the Splash Screen Video](assets/splashscreen.mp4)
 ---
 
 ## 🚀 Features
